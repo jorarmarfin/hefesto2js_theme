@@ -71,6 +71,8 @@ function hefesto2js_widgets_init() {
 		'footer-2'        => array( __( 'Pie: columna 2', 'hefesto2js_theme' ), '' ),
 		'footer-3'        => array( __( 'Pie: columna 3', 'hefesto2js_theme' ), '' ),
 		'footer-4'        => array( __( 'Pie: columna 4', 'hefesto2js_theme' ), '' ),
+		'contact-info'    => array( __( 'Contacto: datos', 'hefesto2js_theme' ), __( 'Dirección, teléfono y correo en la plantilla Contacto.', 'hefesto2js_theme' ) ),
+		'contact-extra'   => array( __( 'Contacto: mapa o formulario', 'hefesto2js_theme' ), __( 'Mapa, formulario u otro bloque en la plantilla Contacto.', 'hefesto2js_theme' ) ),
 		'footer-bottom'   => array( __( 'Pie: barra inferior', 'hefesto2js_theme' ), __( 'Copyright y avisos legales.', 'hefesto2js_theme' ) ),
 	);
 
